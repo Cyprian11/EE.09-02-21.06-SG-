@@ -1,0 +1,52 @@
+body{
+    font-family: Garamond;
+}
+.banerlewy{
+    background-color: #00600F;
+    color: white;
+    text-align: center;
+    width: 75%;
+    height: 90px;
+    float: left;
+}
+.banerprawy{
+    background-color: #00600F;
+    color: white;
+    width: 25%;
+    height: 90px;
+    float: left;
+}
+.blok{
+    background-color: #C8E6C9;
+    height: 600px;
+    overflow-y: scroll;
+    clear: both;
+    
+    
+}
+footer{
+    background-color: #00600F;
+    color: white;
+    clear: both;
+}
+h5{
+    background-color: #00600F;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    margin: 0px;
+}
+h2{
+    text-align: right;
+}
+.produkt{
+    margin: 10px;
+    border: solid #00600F 1px;
+    width: 300px;
+    height: 350px;
+    float: left;
+    
+    
+    
+    
+}
